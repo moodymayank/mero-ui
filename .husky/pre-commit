@@ -1,0 +1,2 @@
+# Run the lint before the commit 
+yarn run lint
